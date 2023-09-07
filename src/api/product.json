@@ -1,0 +1,29 @@
+[ 
+    {
+        "id": 0,
+        "image": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-3i-gen-7-14-intel-hero.png?context=bWFzdGVyfHJvb3R8NDYyOTU3fGltYWdlL3BuZ3xoNWYvaGE3LzE0NjgzNTMyNzU0OTc0LnBuZ3w1OGQ0OTIwN2YwNjQ0MjMxZjAzYmNiNDBiOWY2ZWVlZGZiNGJlMTYwZTk5NzI5ZTM4M2M0YzI2N2I1OTI0NTQ5",
+        "title": "Laptop",
+        "category": "Laptop"
+    },
+    {
+        "id": 1,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/sg/2202/gallery/sg-galaxy-a53-5g-a536-sm-a536elbgxsp-thumb-531405024?$320_320_PNG$",
+        "title": "Mobile",
+        "category": "Mobile"
+    },
+    {
+        "id": 2,
+        "image": "https://in.canon/media/image/2022/11/01/6cb3de2b8918402c84c08b362ad44045_EOS+R6+Mark+II+RF24-105mm+f4L+IS+USM++front+slant.png",
+        "title": "Camera",
+        "category": "Camera"
+
+    },{
+        "id": 3,
+        "image": "https://shreepng.com/img/Inside/Electronic/Headphone/SODO%20SD-1006%20Bluetooth%20Headphone.png",
+        "title": "HeadPhone",
+        "category": "HeadPhone"
+    }
+
+
+    
+]

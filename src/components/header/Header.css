@@ -1,0 +1,50 @@
+header {
+    background-color: #040D12;
+    padding: 10px;
+}
+
+h1{
+    cursor: pointer;
+    color: #fbfbfb;
+}
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .cart-count-header {
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ff398f;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
+
+header .right-section {
+    position: relative;
+}
+
+
+
+.header-item-button {
+   margin-top: 50px;
+    margin-right: 40px;
+    border-radius: 5px;
+    background-color: #ffffff; 
+    color: #0c0c0c; 
+    padding: 10px 20px;
+    border: none; 
+    cursor: pointer; 
+  }
+  
+  .header-item-button:hover {
+    background-color: #9ec9f7; /* Button background color on hover */
+  }
+  
